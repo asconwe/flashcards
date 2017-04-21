@@ -1,0 +1,25 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "Flash Cards (Regular and Cloze deletion)",
+  "main": "flashcards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asconwe/flashcards.git"
+  },
+  "keywords": [
+    "flashcards"
+  ],
+  "author": "August Conwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asconwe/flashcards/issues"
+  },
+  "homepage": "https://github.com/asconwe/flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
